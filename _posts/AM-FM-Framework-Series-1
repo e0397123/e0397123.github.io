@@ -1,0 +1,10 @@
+---
+layout: post
+title: The Adequacy Metric-Fluency Metric Series 1 
+---
+
+This blog summarizes the paper, Adequacy-Fluency Metrics: Evaluating MT in the Continous Space Model Framework, which is published in 2015 on IEEE/ACM TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING, VOL. 23, NO. 3
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
