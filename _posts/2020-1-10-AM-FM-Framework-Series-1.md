@@ -10,5 +10,5 @@ framework, AM-FM, to address the limitations exhibited by both human and automat
 
 ## Research Problem
 
-1. The authors firstly identified the issues with human evaluation that it suffers from inconsistency problems resulted from both inter- and intra-annotator agreement issues. This type of evaluation is expensive and time consuming.
-2. Current automatic evaluation methods require human-written references.
+1. The authors firstly identified the issues with human evaluation that it suffers from inconsistency problems resulted from both inter- and intra-annotator agreement issues. This type of evaluation is expensive and time consuming. {: .justify}
+2. Current automatic evaluation methods require human-written references. {: .left}
